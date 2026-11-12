@@ -49,6 +49,8 @@ may close it or ask you to report a regular issue instead.
     parsing performance. Deployed applications should use standard/recommended
     resource limits offered by their server software and hosting service. You
     may report this as a regular performance issue instead of a security issue.
+-   Most arguments to most functions do not take untrusted input, and are expected
+    to be passed valid values by the developer.
 -   Automated reports from vulnerability scanners or "AI" tools. Please make it
     clear that you understand what you are reporting and have put personal time
     into crafting the report. See our full [LLM and AI Policy](contributing/llm-ai.md).
