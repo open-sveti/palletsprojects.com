@@ -23,8 +23,9 @@ header nav a.logo img {
 }
 
 footer {
+  grid-template-columns: repeat(auto-fit, minmax(20ch, 1fr));
   border-top: 1px solid var(--pico-muted-border-color);
-  font-size: 0.75rem;
+  font-size: medium;
   align-items: start;
 }
 

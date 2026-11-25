@@ -4,17 +4,17 @@
   <section>
     {{ page.content_html | safe }}
   </section>
-  <section class="grid">
+  <ul class="unlist grid">
     {% for title in ("Flask", "Quart", "Jinja", "Click", "Werkzeug", "ItsDangerous", "MarkupSafe") %}
       {% set name = title.lower() %}
-      <p>
+      <li>
         <a href="projects/{{ name }}" class="pallets-project contrast">
           <i><img src="/static/content/projects/{{ name }}-logo.svg"></i>
           {{ title }}
         </a>
-      </p>
+      </li>
     {% endfor %}
-  </section>
+    </ul>
 {% endblock %}
 
 {% block extra_head %}
