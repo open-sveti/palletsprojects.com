@@ -1,6 +1,5 @@
 ~~~~toml
 name = "Werkzeug"
-logo = "werkzeug-name.svg"
 ~~~~
 
 Werkzeug (German for "tool") is a comprehensive [WSGI] web application library.

@@ -1,6 +1,5 @@
 ~~~~toml
 name = "MarkupSafe"
-logo = "markupsafe-name.svg"
 ~~~~
 
 MarkupSafe implements a text object that escapes characters so that it is safe

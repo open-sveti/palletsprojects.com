@@ -1,6 +1,5 @@
 ~~~~toml
 name = "Click"
-logo = "click-name.svg"
 ~~~~
 
 Click is a Python package for creating beautiful command line interfaces in a

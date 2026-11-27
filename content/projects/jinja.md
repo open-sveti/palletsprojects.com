@@ -1,6 +1,5 @@
 ~~~~toml
 name = "Jinja"
-logo = "jinja-name.svg"
 ~~~~
 
 Jinja is a fast, expressive, extensible templating engine. Special

@@ -1,6 +1,5 @@
 ~~~~toml
 name = "Quart"
-logo = "quart-name.svg"
 ~~~~
 
 Quart is a fast [ASGI] web application framework. It is the async version of

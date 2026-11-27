@@ -1,6 +1,5 @@
 ~~~~toml
 name = "ItsDangerous"
-logo = "itsdangerous-name.svg"
 ~~~~
 
 [It's dangerous to go alone!][wiki] Sign this.

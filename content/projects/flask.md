@@ -1,6 +1,5 @@
 ~~~~toml
 name = "Flask"
-logo = "flask-name.svg"
 ~~~~
 
 Flask is a lightweight [WSGI] web application framework. It is designed to make
