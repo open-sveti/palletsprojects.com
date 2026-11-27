@@ -16,13 +16,3 @@
     {% endfor %}
     </ul>
 {% endblock %}
-
-{% block extra_head %}
-  <style>
-    .grid-projects {
-      grid-template-columns: repeat(auto-fill, minmax(clamp(20ch, 25%, 100%), 1fr));
-      gap: 0;
-      row-gap: var(--pico-spacing);
-    }
-  </style>
-{% endblock %}
